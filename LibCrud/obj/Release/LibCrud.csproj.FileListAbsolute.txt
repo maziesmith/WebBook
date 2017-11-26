@@ -1,0 +1,4 @@
+E:\ProjectWebBook\LibCrud\bin\Release\LibCrud.dll
+E:\ProjectWebBook\LibCrud\bin\Release\LibCrud.pdb
+E:\ProjectWebBook\LibCrud\obj\Release\LibCrud.dll
+E:\ProjectWebBook\LibCrud\obj\Release\LibCrud.pdb
