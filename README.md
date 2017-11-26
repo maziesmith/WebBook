@@ -17,6 +17,6 @@
 3 - Tools Used: 
 
 - Visual Studio 2013.
-- .net Framework 4.5.1.
+- .net Framework 4.5.
 - SQL Server 2014.
 - BootStrap 3.3.7 (for templates).
