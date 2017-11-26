@@ -1,2 +1,22 @@
 # WebBook
-Prototype of a book and authors registration system made in ASP.NET (C#)(WebForm), and SQL Server database.
+
+1 - Description:
+
+- Prototype of a book and authors registration system made in ASP.NET (C#)(WebForm), and SQL Server database.
+
+2 - Features:
+
+- ASP.NET(WebForm) Project.
+- C# on code behind.
+- Transaction on database operations.
+- Login made with "Invidual Authentication" in ASP.NET.
+- LibClass (extern project) with methods and classes for operations.
+- Theme made with BootStrap.
+- Report made with ReportViewer.
+ 
+3 - Tools Used: 
+
+- Visual Studio 2013.
+- .net Framework 4.5.1.
+- SQL Server 2014.
+- BootStrap 3.3.7 (for templates).
